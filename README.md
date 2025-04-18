@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Diving into the realm of Penetration Testing<br>🚀 Skilled in the MERN stack Development <br>👯 Open to teaming up for MERN Stack<br>🤝 Seeking support to level up Penetration Testing <br>🌱 Exploring new skills to master Cyber Security<br>💬 Drop me a message on muhammadmuazahmed@gmail.com<br>⚡ Love making connections.
+🔭 Diving into the realm of Cyber Security<br>🚀 Skilled in the MERN stack Development <br>👯 Open to teaming up for MERN Stack<br>🤝 Seeking support to level up Penetration Testing <br>🌱 Exploring new skills to master Cyber Security<br>💬 Drop me a message on muhammadmuazahmed@gmail.com<br>⚡ Love making connections.
 
 
 ## 🌐 Socials:
