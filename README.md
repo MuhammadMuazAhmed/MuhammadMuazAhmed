@@ -35,7 +35,7 @@
 ### 🔐 Cybersecurity & Pentesting (ethical / authorized testing only)
 
 ![ARP spoofing](https://img.shields.io/badge/ARP--Spoofing-0A0A0A?style=for-the-badge&logo=network-wired&logoColor=white) ![MitM](https://img.shields.io/badge/Man--in--the--Middle-MiTM-0A0A0A?style=for-the-badge&logo=mitmproxy&logoColor=white) ![Email Spoofing](https://img.shields.io/badge/Email--Spoofing-0A0A0A?style=for-the-badge&logo=mailchimp&logoColor=white) ![Android Exploitation](https://img.shields.io/badge/Android--Exploitation-0A0A0A?style=for-the-badge&logo=android) ![Brute Force](https://img.shields.io/badge/Brute--Force-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white)
-  ![Metasploit](https://skillicons.dev/icons?i=metasploit) ![Burp Suite](https://skillicons.dev/icons?i=burpsuite) ![Acunetix](https://img.shields.io/badge/Acunetix-Scan-0A0A0A?style=for-the-badge&logo=acuant&logoColor=white) ![Netsparker](https://img.shields.io/badge/Netsparker-Scan-0A0A0A?style=for-the-badge&logo=rapid7&logoColor=white) ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Aircrack-ng](https://skillicons.dev/icons?i=aircrack-ng) ![Hydra](https://skillicons.dev/icons?i=hydra) ![John the Ripper](https://skillicons.dev/icons?i=johntheripper)
+    ![Acunetix](https://img.shields.io/badge/Acunetix-Scan-0A0A0A?style=for-the-badge&logo=acuant&logoColor=white) ![Netsparker](https://img.shields.io/badge/Netsparker-Scan-0A0A0A?style=for-the-badge&logo=rapid7&logoColor=white) ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Aircrack-ng](https://skillicons.dev/icons?i=aircrack-ng) ![Hydra](https://skillicons.dev/icons?i=hydra) ![John the Ripper](https://skillicons.dev/icons?i=johntheripper)
 
 
 ### 🛠️ Tools & Platforms
