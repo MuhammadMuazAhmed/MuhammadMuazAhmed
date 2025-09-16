@@ -75,10 +75,4 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836/ffffff" height="40" alt="Email" />
   </a>
 </p>
-<br/>
-<br/>
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadMuazAhmed&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  <br/>
-</p>
+
