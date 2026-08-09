@@ -58,7 +58,6 @@
     alt="GitHub Streak"
   />
 </p>
-
 <p align="center">
   <img
     src="./profile/top-langs.svg"
