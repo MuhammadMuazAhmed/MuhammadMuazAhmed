@@ -44,13 +44,27 @@
 ### 🎨 Design & Data
 ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) ![NumPy](https://skillicons.dev/icons?i=numpy)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuazAhmed&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuazAhmed&theme=tokyonight&hide_border=false" height="170"/>
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/streak.svg"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuazAhmed&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
