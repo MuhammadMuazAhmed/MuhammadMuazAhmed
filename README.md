@@ -54,7 +54,7 @@
   />
   <img
     src="./profile/streak.svg"
-    width="48%"
+    width="50%"
     alt="GitHub Streak"
   />
 </p>
@@ -62,7 +62,7 @@
 <p align="center">
   <img
     src="./profile/top-langs.svg"
-    width="60%"
+    width="55%"
     alt="Top Languages"
   />
 </p>
