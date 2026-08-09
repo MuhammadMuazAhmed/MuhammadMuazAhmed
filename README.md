@@ -54,7 +54,7 @@
   />
   <img
     src="./profile/streak.svg"
-    width="50%"
+    width="49%"
     alt="GitHub Streak"
   />
 </p>
