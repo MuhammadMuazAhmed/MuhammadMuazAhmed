@@ -49,7 +49,7 @@
 <p align="center">
   <img
     src="./profile/stats.svg"
-    width="48%"
+    width="50%"
     alt="GitHub Stats"
   />
   <img
