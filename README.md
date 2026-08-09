@@ -49,12 +49,12 @@
 <p align="center">
   <img
     src="./profile/stats.svg"
-    height="180"
+    width="48%"
     alt="GitHub Stats"
   />
   <img
     src="./profile/streak.svg"
-    height="180"
+    width="48%"
     alt="GitHub Streak"
   />
 </p>
@@ -62,7 +62,7 @@
 <p align="center">
   <img
     src="./profile/top-langs.svg"
-    height="180"
+    width="60%"
     alt="Top Languages"
   />
 </p>
