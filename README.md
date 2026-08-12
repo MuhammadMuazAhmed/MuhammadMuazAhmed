@@ -50,7 +50,7 @@
   <img
     src="./profile/stats.svg"
     width="50%"
-    height="200"
+    height="199"
     alt="GitHub Stats"
   />
   <img
